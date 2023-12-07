@@ -1,0 +1,27 @@
+{
+  "name": "parfume",
+  "version": "1.0.0",
+  "description": "perfume shop",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rian911/parfume.git"
+  },
+  "keywords": [
+    "perfume",
+    "shop",
+    "marketplace",
+    "nodejs",
+    "npm"
+  ],
+  "author": "Riansyah R H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rian911/parfume/issues"
+  },
+  "homepage": "https://github.com/rian911/parfume#readme"
+}
