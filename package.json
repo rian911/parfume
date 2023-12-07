@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/rian911/parfume/issues"
   },
-  "homepage": "https://github.com/rian911/parfume#readme"
+  "homepage": "https://github.com/rian911/parfume#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  }
 }
